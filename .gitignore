@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Dataset files
+*.csv
+*.zip
+data/
+dataset/
+datasets/
+
+# Trained models
+*.h5
+*.keras
+*.pkl
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
